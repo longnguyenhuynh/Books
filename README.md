@@ -11,3 +11,6 @@
 - https://www.root-me.org/
 - https://cryptohack.org/
 - https://cse466.pwn.college/login?next=%2Fchallenges%3F
+- https://pwnable.tw/challenge/
+- https://github.com/apsdehal/awesome-ctf?fbclid=IwAR1fU87SSySna99Xqny07IcySKKiRgAIwn1St02-wLDQSEwtfRqdf1DkQt8#forensics
+- https://xss.pwnfunction.com/
