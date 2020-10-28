@@ -1,12 +1,12 @@
 # CTF
-https://www.root-me.org/?lang=en - automatic!
+* https://www.root-me.org/?lang=en
 ## PWN
-https://cse466.pwn.college/ - automatic!
-https://exploit-exercises.lains.space/protostar/ - automatic!
+* https://cse466.pwn.college/
+* https://exploit-exercises.lains.space/protostar/ 
 ## RE
-http://reversing.kr/  - automatic!
+* http://reversing.kr/
 ## Web
-http://websec.fr/ - automatic!
-http://www.itsecgames.com/ - automatic!
+* http://websec.fr/
+* http://www.itsecgames.com/ 
 ## Crypto 
-https://cryptohack.org/ - automatic!
+* https://cryptohack.org/ 
