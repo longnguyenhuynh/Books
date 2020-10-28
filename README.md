@@ -1,16 +1,12 @@
-#### Random links:
-- https://cryptopals.com/
-- https://overthewire.org/wargames/
-- http://pwnable.kr/
-- https://exploit-exercises.lains.space/
-- https://ethernaut.openzeppelin.com/
-- https://ctflearn.com/dashboard
-- https://www.hackthebox.eu/
-- https://picoctf.com/?fbclid=IwAR1fU87SSySna99Xqny07IcySKKiRgAIwn1St02-wLDQSEwtfRqdf1DkQt8
-- https://github.com/apsdehal/awesome-ctf?fbclid=IwAR1fU87SSySna99Xqny07IcySKKiRgAIwn1St02-wLDQSEwtfRqdf1DkQt8
-- https://www.root-me.org/
-- https://cryptohack.org/
-- https://cse466.pwn.college/login?next=%2Fchallenges%3F
-- https://pwnable.tw/challenge/
-- https://github.com/apsdehal/awesome-ctf?fbclid=IwAR1fU87SSySna99Xqny07IcySKKiRgAIwn1St02-wLDQSEwtfRqdf1DkQt8#forensics
-- https://xss.pwnfunction.com/
+# CTF
+https://www.root-me.org/?lang=en - automatic!
+## PWN
+https://cse466.pwn.college/ - automatic!
+https://exploit-exercises.lains.space/protostar/ - automatic!
+## RE
+http://reversing.kr/  - automatic!
+## Web
+http://websec.fr/ - automatic!
+http://www.itsecgames.com/ - automatic!
+## Crypto 
+https://cryptohack.org/ - automatic!
